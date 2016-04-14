@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/BenHainesRedesignTheme"]
+	path = wp-content/themes/BenHainesRedesignTheme
+	url = https://github.com/olefredrik/FoundationPress.git
