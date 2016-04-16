@@ -1,3 +1,6 @@
 [submodule "wp-content/themes/BenHainesRedesignTheme"]
 	path = wp-content/themes/BenHainesRedesignTheme
 	url = https://github.com/olefredrik/FoundationPress.git
+[submodule "wp-cli-deploy"]
+	path = wp-cli-deploy
+	url = https://github.com/c10b10/wp-cli-deploy.git
